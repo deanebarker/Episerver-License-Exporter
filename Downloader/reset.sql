@@ -1,0 +1,3 @@
+﻿TRUNCATE TABLE Licenses
+TRUNCATE TABLE Companies
+TRUNCATE TABLE Contacts
